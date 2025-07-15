@@ -1,4 +1,6 @@
+![1__3VeC6lnwlWR5dlLUDdUXg](https://github.com/user-attachments/assets/b28acfba-2cfe-4279-b30c-1ca6fa0e6399)
 🏥 HealthStats Power BI Dashboard
+
 A comprehensive Power BI project analyzing hospital admissions, patient data, and doctor activity to uncover insights into healthcare operations and performance.
 
 📁 Project Files
